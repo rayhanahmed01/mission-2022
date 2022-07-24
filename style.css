@@ -1,3 +1,9 @@
+body {
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-top: 70px;
+}
+
 h1 {
     font-size: 50px;
 }
@@ -38,20 +44,29 @@ h1 {
 .my-mission {
     display: flex;
     padding-left: 10px;
-    margin-left: 200px;
+
 
 }
 
-.container {
-    width: 33.3%;
-}
+
 
 #mission {
     height: 300px;
-    width: 300px;
+    width: 340px;
     background-color: antiquewhite;
     margin-right: 5px;
-    border-radius: 10px;
+    border-radius: 20px;
+    padding-left: 15px;
+
+}
+
+.border {
+    border-left: 5px solid #E55451;
+}
+
+.mission-text {
+    text-align: center;
+
 
 }
 
@@ -61,18 +76,85 @@ h1 {
 
 #vission {
     height: 300px;
-    width: 300px;
+    width: 340px;
     background-color: lightpink;
     margin-left: 15px;
-    border-radius: 10px;
+    border-radius: 20px;
+    padding-left: 15px;
 
+}
+
+#vission img {
+    width: 40%;
 }
 
 #goal {
     height: 300px;
-    width: 300px;
+    width: 340px;
     background-color: lavender;
     margin-left: 20px;
-    border-radius: 10px;
+    border-radius: 20px;
+    padding-left: 15px;
 
+}
+
+#goal img {
+    width: 40%;
+}
+
+.coding img {
+    height: 300px;
+    width: 300px;
+
+    margin-top: 70px;
+}
+
+.developer {
+
+    display: flex;
+}
+
+#dev-text {
+
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+#pragraph {
+    font-size: 20px;
+}
+
+.documentation {
+    display: flex;
+    margin-top: 80px;
+}
+
+.community img {
+    width: 60%;
+    margin-left: 200px;
+
+}
+
+.global {
+    margin-top: 100px;
+}
+
+.app {
+    display: flex;
+    margin-top: 50px;
+}
+
+.app img {
+    height: 700px;
+    width: 400px;
+}
+
+.stay-safe {
+    padding-left: 200px;
+    margin-top: 90px;
+}
+
+.font-size {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: 500;
 }
