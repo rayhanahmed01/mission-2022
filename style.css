@@ -1,0 +1,78 @@
+h1 {
+    font-size: 50px;
+}
+
+.heading {
+    font-family: 'Bree Serif', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Trispace', sans-serif;
+}
+
+.tomato {
+    color: tomato;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 10px;
+    color: white;
+    border-radius: 5px;
+}
+
+.half-width {
+    width: 50%;
+
+}
+
+.focused {
+    display: flex;
+    padding-left: 40px;
+}
+
+.half-width img {
+    width: 50%;
+    padding-left: 90px;
+}
+
+.my-mission {
+    display: flex;
+    padding-left: 10px;
+    margin-left: 200px;
+
+}
+
+.container {
+    width: 33.3%;
+}
+
+#mission {
+    height: 300px;
+    width: 300px;
+    background-color: antiquewhite;
+    margin-right: 5px;
+    border-radius: 10px;
+
+}
+
+#mission img {
+    width: 40%;
+}
+
+#vission {
+    height: 300px;
+    width: 300px;
+    background-color: lightpink;
+    margin-left: 15px;
+    border-radius: 10px;
+
+}
+
+#goal {
+    height: 300px;
+    width: 300px;
+    background-color: lavender;
+    margin-left: 20px;
+    border-radius: 10px;
+
+}
