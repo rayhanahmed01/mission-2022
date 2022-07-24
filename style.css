@@ -158,3 +158,9 @@ h1 {
     font-family: Verdana, Arial, Helvetica, sans-serif;
     font-weight: 500;
 }
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    color: white;
+  }
